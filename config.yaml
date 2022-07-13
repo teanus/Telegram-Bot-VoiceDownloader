@@ -1,0 +1,22 @@
+#
+#           Developer Contacts:
+#               VK: vk.com/dimawinchester
+#               Telegram: t.me/teanus
+#               Github: github.com/teanus
+#
+#
+#
+# ████████╗███████╗ █████╗ ███╗   ██╗██╗   ██╗███████╗
+# ╚══██╔══╝██╔════╝██╔══██╗████╗  ██║██║   ██║██╔════╝
+#    ██║   █████╗  ███████║██╔██╗ ██║██║   ██║███████╗
+#    ██║   ██╔══╝  ██╔══██║██║╚██╗██║██║   ██║╚════██║
+#    ██║   ███████╗██║  ██║██║ ╚████║╚██████╔╝███████║
+#    ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝
+
+
+Telegram:
+  token: ''
+
+locale: 'ru_ru'  # en_en, ru_ru and other
+
+save: True  # saving audio (True - enable, False - disable)

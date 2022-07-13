@@ -1,0 +1,7 @@
+# shablon localization files
+
+
+message_start: ""
+message_send_audio: ""
+message_info: ""
+message_other: ""
